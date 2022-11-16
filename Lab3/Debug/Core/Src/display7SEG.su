@@ -1,0 +1,4 @@
+display7SEG.c:10:6:display7SEG_1	16	static
+display7SEG.c:130:7:display7SEG_2	16	static
+display7SEG.c:245:6:display7SEG_3	16	static
+display7SEG.c:358:6:split_digit_to_display	16	static

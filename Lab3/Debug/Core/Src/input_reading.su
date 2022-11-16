@@ -1,0 +1,6 @@
+input_reading.c:18:6:button_reading	24	static
+input_reading.c:79:15:is_counterFor500ms_equal_0	4	static
+input_reading.c:87:15:is_blinkCounter500ms_equal_0	4	static
+input_reading.c:94:15:is_counterFor1s_equal_0	4	static
+input_reading.c:103:15:is_button_released	16	static
+input_reading.c:110:15:is_button_pressed_200ms	16	static

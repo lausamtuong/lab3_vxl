@@ -1,0 +1,2 @@
+input_processing.c:19:6:sum	24	static
+input_processing.c:22:6:fsm_for_input_processing	16	static
